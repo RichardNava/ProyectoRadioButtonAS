@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="et_num1">Introduzca número 1</string>
+    <string name="et_num2">Introduzca número 2</string>
+    <string name="rb_sum">Sumar</string>
+    <string name="rb_rest">Restar</string>
+    <string name="rb_mult">Multiplicar</string>
+    <string name="rb_div">Dividir</string>
+    <string name="tv_result">RESULTADO</string>
+    <string name="btn_calc">CALCULAR</string>
+</resources>
